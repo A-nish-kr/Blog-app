@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "704958282961",
+    "firebase_url": "https://blog-appp-88321-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blog-appp-88321",
+    "storage_bucket": "blog-appp-88321.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704958282961:android:59c11da56d1ec621b299f0",
+        "android_client_info": {
+          "package_name": "com.example.blogapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk5esKT6QWutM9dzk-FNOjkOmNvw2ovoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704958282961:android:79ad3e57d87921aeb299f0",
+        "android_client_info": {
+          "package_name": "com.example.bloggerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk5esKT6QWutM9dzk-FNOjkOmNvw2ovoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
